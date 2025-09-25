@@ -1,0 +1,14 @@
+Maximizing CMS competitive advantage
+
+Author: Dmytro (Dima) Kovalskyi, April 14, 2025
+Tags: Analysis, CERN, CMS, Detector
+
+A muon, the heavier counterpart of the electron, serves as one of the clearest signatures of various unique and interesting processes at the Large Hadron Collider (LHC). Due to its small interaction cross-section with ordinary matter, a muon can pass through substantial amounts of material, leaving a distinct signature in the detector that is easy to distinguish from those of other particles.
+
+The CMS detector was specifically optimized to take advantage of the unique properties of muons – even its name, Compact Muon Solenoid (CMS), reflects this focus. The detector has acceptance for muons with momenta as low as a few GeV, while still being capable of reliably detecting and measuring the momentum of muons at the TeV scale. Its excellent low-momentum muon acceptance, even at the maximum instantaneous luminosity deliverable by the LHC, gives the CMS collaboration a competitive edge in several key areas of heavy flavor physics such as Bs→μμ measurements and other rare decays.
+
+To maximize this advantage, our group actively contributed to enhancing both muon trigger capabilities and muon identification. DK led the trigger development efforts, enabling CMS to improve muon trigger efficiency at very low muon momenta by up to 50% compared to Run 2 of the LHC. Additionally, we successfully advocated for CMS to allocate more resources, allowing for the recording of up to 1.5 kHz of RAW data triggered by the inclusive dimuon trigger. A key highlight from the recent CMS presentation at the Moriond conference demonstrated a 50% increase in the event yield of quarkonia decays to four muons – beyond what was expected from the luminosity gain alone (https://cds.cern.ch/record/2929472)
+
+Despite their distinctive signature, low-momentum muons are subject to significant background contamination from the decays of ordinary pions and kaons. Under the leadership of Zhanqier Wang and DK, and in collaboration with the Purdue group, we developed a new muon identification algorithm designed to better distinguish muons originating from heavy quark decays from those produced in pion and kaon decays. These results have been accepted for publication in the Journal of Instrumentation (https://arxiv.org/abs/2412.17590).
+
+We are still actively working to improve the physics reach of the CMS detector with muons. In 2024, DK, in collaboration with the UCLA team, introduced a new high-purity single muon trigger, which further expands the physics program. Stay tuned for exciting new results with the updated triggers.

@@ -1,0 +1,22 @@
+The Particle Physics Collaboration (PPC) searches for the answer to the ultimate question: what is matter and how does it interact? This means we are performing rigorous tests and measurements of the Standard Model of particle physics, a set of theories which describe all known phenomena concerning the electroweak and strong interactions, and very importantly explore physics beyond the Standard Model. The group does this by performing particle physics experiments at the energy frontier.
+
+The Compact Muon Solenoid (CMS)
+CMS tracker, some of the 200 square meter of silicon
+
+Right now the PPC is mostly analyzing the huge datasets in high-energy proton-proton collisions collected by the Compact Muon Solenoidal (CMS), one of two multi-purpose particle detectors installed at interaction points of the Large Hadron Collider (LHC) at CERN, Geneva, Switzerland. At the same time we are actively looking into the future to identify the next big accelerator and detector leap at the frontier to directly find physics beyond the standard model and to clamp down on the Higgs boson and the other standard model parameters to see whether our theory can keep up nature. She is of course the measuring stick every theory is measured by.
+
+History Highlights
+
+The group started with Henry Kendall and Jerry Friedman and the Nobel Prize (1990) winning MIT-SLAC experiments which: “… gave the surprising result that the electrical charge within the proton is concentrated to smaller components of negligible size.” And was the main experimental piece of evidence for quarks. From there, various collaborations with SLAC eventually led to the participation and leadership in the SLD experiment.
+
+With the cancellation of the SSC in 1993, which the group heavily invested in, the activities were redirected to the planning of the LHC with the CMS experiment which had been founded in 1992 and continued the participation (started in 1991) in the CDF experiment at Fermilab. Highlights of the physics analysis at the CDF experiment were leadership roles in the top quark discovery and later the lead of the observation of Bs meson oscillations.
+
+SLAC-MIT Experiment ~ 1969
+
+Stanford Linear collider Detector (SLD)
+
+Collision Detector at Fermilab (CDF)
+
+The PPC plays a major role in the Compact Muon Solenoid (CMS) collaboration at the LHC, composed of over 150 institutions more then 35 countries, with about 3000 scientists and engineers. After 20 years of design and construction, the CMS detector, the heaviest detector ever constructed for particle physics, weighing in at 12,500 tons, started collecting proton-proton collision data in October 2009. The CMS experiment is projected to go through five LHC data taking periods coined Run 1 to Run 5 which would end in 2038 and should collect well over 3 inverse atobarns at a highest center-of-mass energy of 14 TeV. During the Run 1 period in 2012 and under PPC leadership the Higgs boson was discovered with the CMS detector. The ATLAS experiment simultaneously announced their discovery. The discovery lead to the numerous awards most importantly the Nobel Prize (2013) awarded to the theorists postulating its existence, Peter Higgs and Francois Englert.
+
+For the future the PPC is constantly evaluating the landscape of the energy frontier. Presently the PPC will continue with the CMS experiment in the High Luminosity LHC (HL-LHC) project and for the far future the PPC is mainly involved in the feasibility study for a Future Circular Collider (FCC) which should conclude in 2025 with a report.

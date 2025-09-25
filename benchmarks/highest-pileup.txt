@@ -1,0 +1,8 @@
+Highest Pileup recorded at CMS last night
+
+Author: Christoph Paus June 20, 2025
+Tags: CMS, Detector, News
+
+LHC must have been in a mood to test the limits. According to reports from our data acquisition team CMS recorded pileup collisions at an average of 135 per crossing which is about two times as much we have been seeing usually during Run 3 … If that turns out to be true we just saw a new record in intensity of instantaneous luminosity, which would be a great sign for the upcoming HL-LHC.
+
+Our DAQ team for the Storage Manager and File Transfer system also reported that the high pileup intensity seems to lead to issues, like extended processing times required by the High Level Trigger (HLT), which in turn does not let us close run with events still outstanding. Time scales of order one hour were reported for certain events to process. So, we still have some work to do, but this sounds very exciting.

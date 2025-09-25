@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Why are muons important for studies at the Large Hadron Collider (LHC)?",
+    "answer": "Muons interact very little with ordinary matter, allowing them to pass through large amounts of material and leave distinct detector signatures. This makes them clear indicators of unique and interesting processes at the LHC.",
+    "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+  },
+  {
+    "question": "How was the CMS detector optimized for muons?",
+    "answer": "The Compact Muon Solenoid (CMS) detector was designed with strong muon detection capabilities, including acceptance for low-momentum muons of just a few GeV, while still being able to measure muons at the TeV scale.",
+    "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+  },
+  {
+    "question": "What improvement in muon trigger efficiency did CMS achieve compared to Run 2?",
+    "answer": "Under DK’s leadership, CMS improved low-momentum muon trigger efficiency by up to 50% compared to Run 2 of the LHC.",
+    "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+  },
+  {
+    "question": "What was the outcome of the new muon identification algorithm developed by DK, Zhanqier Wang, and collaborators?",
+    "answer": "The new algorithm significantly improved the ability to distinguish muons from heavy quark decays versus those from pion and kaon decays. The results were accepted for publication in the Journal of Instrumentation.",
+    "link": "https://arxiv.org/abs/2412.17590"
+  },
+  {
+    "question": "What new trigger was introduced in 2024 to expand the CMS physics program?",
+    "answer": "In collaboration with UCLA, DK introduced a new high-purity single muon trigger, which further enhances the CMS muon physics program.",
+    "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+  }
+]

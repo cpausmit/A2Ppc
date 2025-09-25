@@ -1,0 +1,17 @@
+[
+    {
+	"question": "Who authored the report about the highest pileup at CMS and when was it written?",
+	"answer": "The report was authored by Christoph Paus on June 20, 2025.",
+	"link": "https://ppc.mit.edu/blog/2025/06/20/highest-pileup-recorded-at-cms-last-night/"
+    },
+    {
+	"question": "What was the record pileup value recorded at CMS and how does it compare to usual Run 3 conditions?",
+	"answer": "CMS recorded an average of 135 pileup collisions per crossing, about twice the usual amount seen during Run 3.",
+	"link": "https://ppc.mit.edu/blog/2025/06/20/highest-pileup-recorded-at-cms-last-night/"
+    },
+    {
+	"question": "What issues did the highest pileup record cause for the CMS data acquisition system?",
+	"answer": "The high pileup led to extended processing times required by the High Level Trigger (HLT), preventing runs from being closed with events still outstanding and causing delays of up to an hour for certain events.",
+	"link": "https://ppc.mit.edu/blog/2025/06/20/highest-pileup-recorded-at-cms-last-night/"
+    }
+]

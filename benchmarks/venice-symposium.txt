@@ -1,0 +1,45 @@
+Open Symposium on the European Strategy for Particle Physics*
+
+Author: Christoph Paus, June 27, 2025
+Tags: Events, FCC, Future, News
+    
+The Open Symposium on the European Strategy for Particle Physics (ESPP) concluded on June 27, 2025, in Venice, serving as a critical community consultation for formulating Europe’s next major project in high-energy physics.
+
+    “The time is ripe to forge a brilliant future for our field in Europe, together with our global partners,” said Fabiola Gianotti, CERN Director-General. “The worldwide CERN community’s achievements in implementing the 2020 ESPP update prove that we are a strong community, capable of designing, building and operating facilities of astounding complexity that consistently exceed expectations. This is our greatest asset as we prepare for even more ambitious projects.”
+
+Here’s what emerged:
+🧪 1. Broad Community Engagement
+
+    The meeting gathered hundreds of scientists worldwide to discuss inputs submitted by March 31, including national white papers, early career researcher feedback, sustainability initiatives, and proposals like the FCC‑ee/pp, ILC, CEPC, muon collider, neutrino facilities, and dark-sector experiments .
+    Plenary sessions reviewed implementation of the 2020 strategy and launched into themed working-group discussions (physics, accelerators, detectors, computing)
+
+🚀 2. Next-Collider Dialogue
+
+    A central focus was selecting Europe’s next flagship collider post-High-Luminosity LHC. The favored option remains the integrated Future Circular Collider (FCC) concept (FCC‑ee followed by FCC‑pp), though staged alternatives—a lower-energy hadron collider or participation in a linear Higgs factory—were actively debated .
+    Discussions emphasized streamlined timelines to avoid a knowledge gap after HL‑LHC ends, international collaboration, and feasibility and cost concerns
+
+🌍 3. Strong Non-Collider Emphasis
+
+    Inputs highlighted the importance of neutrino facilities, dark-sector and rare-process experiments, and computational efforts, ensuring a balanced strategy beyond big colliders .
+    The case for embedding environmental sustainability in all future projects became prominent .
+
+🎓 4. Early Career Voices
+
+    A white paper from early career researchers underscored issues like career paths, funding, equity, and training—urging the community to prioritize policies that support new talent .
+
+🌐 5. International Collaboration
+
+    Several contributions, notably “Science4Peace,” advocated for reaffirming Europe’s commitment to open, peaceful international cooperation—highlighting its vital role amid geopolitical challenges arxiv.org.
+
+🔜 What’s Next?
+
+    Over the summer and autumn, the European Strategy Group (ESG) will craft a draft strategy using Symposium inputs. This draft will be presented and debated in a closed ESG session in Ascona, Switzerland (Dec 1–5, 2025).
+    A finalized strategy will be submitted to the CERN Council for approval by June 2026 .
+
+✅ In Summary
+
+    The Venice Symposium successfully brought together the global particle physics community to weigh in on priorities.
+    While no final decisions were made, the dominant momentum supports the FCC integrated approach, backed by robust alternatives and complementary investments.
+    There’s a clear push for building an inclusive, sustainable, and internationally collaborative roadmap—and integrating early-career perspectives to future-proof the field.
+
+* This article was written with substantial contributions from OpenAI.

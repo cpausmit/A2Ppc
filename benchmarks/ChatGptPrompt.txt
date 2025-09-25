@@ -1,0 +1,1 @@
+Please formulate five meaningful questions that are answered in the attached text file and answer them. Present the questions and answers in a json text format with "question":and "answer": tags. Please also add a "link": tag to each question and answer tuple with an empty string.

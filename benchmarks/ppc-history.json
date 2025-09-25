@@ -1,0 +1,27 @@
+[
+    {
+	"question": "What fundamental question does the Particle Physics Collaboration (PPC) aim to answer?",
+	"link": "https://ppc.mit.edu/history/",
+	"answer": "The PPC searches for the answer to the ultimate question: what is matter and how does it interact?"
+    },
+    {
+	"question": "Which major experiment is the PPC currently focused on analyzing data from?",
+	"link": "https://ppc.mit.edu/history/",
+	"answer": "The PPC is mainly analyzing proton-proton collision datasets collected by the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC) in CERN, Geneva, Switzerland."
+    },
+    {
+	"question": "Which discovery under PPC leadership during Run 1 at the LHC led to the 2013 Nobel Prize in Physics?",
+	"link": "https://ppc.mit.edu/history/",
+	"answer": "The discovery of the Higgs boson with the CMS detector in 2012, simultaneously with the ATLAS experiment."
+    },
+    {
+	"question": "What was a highlight of the PPC's contributions at Fermilab's CDF experiment?",
+	"link": "https://ppc.mit.edu/history/",
+	"answer": "The PPC played leadership roles in the discovery of the top quark and later led the observation of Bs meson oscillations."
+    },
+    {
+	"question": "What future projects is the PPC involved in beyond the LHC?",
+	"link": "https://ppc.mit.edu/history/",
+	"answer": "The PPC will continue with the CMS experiment in the High Luminosity LHC (HL-LHC) project and is involved in the feasibility study for a Future Circular Collider (FCC), expected to conclude in 2025."
+    }
+]

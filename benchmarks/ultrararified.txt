@@ -1,0 +1,12 @@
+News on from ultra-rarified Higgs
+
+By Mariarosaria D'Alfonso, February 18, 2025
+Tags: Analysis, CMS
+
+Following the discovery of the Higgs boson with a mass of approximately 125 GeV by the ATLAS and CMS collaborations at the Large Hadron Collider, extensive studies have confirmed its central role in the spontaneous breaking of electroweak symmetry in the standard model. However, its connection to the generation of fermion masses—particularly for the first and second generations—remains an open question. Unraveling the Yukawa interactions of these lighter quarks will be one of the great challenges in particle physics in the coming decades, offering exciting opportunities for the discovery of new physics.
+
+Our team investigates ultra-rare Higgs boson decays into a light meson—such as ρ, ϕ or K*⁰—and a photon (γ). Thanks to the exceptional precision of the CMS detector in measuring tracks and photons, Higgs boson events appear as a distinct narrow peak in the three-particle mass spectrum.
+
+Our effort with Kevin, Marti, and Charlotte from MIT, as well as Giulio and Roberto from Torino on the Run 2 dataset was just published https://doi.org/10.1016/j.physletb.2025.139296. Spoilert alert! It has yet to reveal any significant excess and we placed world leading constraints on these Higgs boson decays and thus its coupling to the up, down, and strange quarks.
+
+As CMS continues collecting data, we remain on the path toward our ultimate goal—precisely measuring these elusive SM decays and searching for hints of new physics in case the signal is inconsistent with the predictions. Run 3 brings exciting prospects, with improved triggers enhancing sensitivity to these rare processes. Additionally, we are expanding our exploration to new final states and refining our statistical techniques to detect even the slightest deviations that could signal new physics.

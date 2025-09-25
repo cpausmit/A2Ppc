@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Who authored the article on 'ultra-rarified Higgs' and when was it published?",
+    "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+    "answer": "By Mariarosaria D'Alfonso, February 18, 2025."
+  },
+  {
+    "question": "Which ultra-rare Higgs boson decays did the PPC group investigate?",
+    "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+    "answer": "Higgs decays into a light meson (such as ρ, ϕ, or K*⁰) and a photon (γ)."
+  },
+  {
+    "question": "How do the targeted ultra-rarified Higgs events appear in the mass spectrum?",
+    "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+    "answer": "As a distinct narrow peak in the three-particle mass spectrum, thanks to the CMS detector’s precision in measuring tracks and photons."
+  },
+  {
+    "question": "What was the outcome of the Run 2 analysis of ultra-rarified Higgs decays and where was it published?",
+    "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+    "answer": "No significant excess was observed; the study set world-leading constraints on these Higgs decays and their couplings to up, down, and strange quarks. The results were published at https://doi.org/10.1016/j.physletb.2025.139296."
+  },
+  {
+    "question": "What prospects and goals are outlined for 'ultra-rarified Higgs' during Run 3 and beyond?",
+    "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+    "answer": "The goal is to precisely measure these elusive Standard Model decays and search for new physics; Run 3 features improved triggers to enhance sensitivity, exploration of new final states, and refined statistical techniques to detect subtle deviations."
+  }
+]
+
+
+
+    {
+        "question": "What is meant by 'ultrararified' in the context of the text?",
+	"link": "",
+        "answer": "It refers to conditions or substances that exist at extremely low density, often close to a vacuum state."
+    },
+    {
+        "question": "What examples are given of ultrararified environments?",
+	"link": "",
+        "answer": "Outer space and certain laboratory-created vacuums are mentioned as examples of ultrararified environments."
+    },
+    {
+        "question": "Why are ultrararified conditions significant for scientific research?",
+	"link": "",
+        "answer": "They allow the study of fundamental physical processes without interference from dense matter or atmospheric particles."
+    },
+    {
+        "question": "How are ultrararified states achieved in laboratories?",
+	"link": "",
+        "answer": "They are typically created using advanced vacuum systems and techniques that remove nearly all particles from a chamber."
+    },
+    {
+        "question": "What challenges are associated with studying ultrararified conditions?",
+	"link": "",
+        "answer": "Challenges include maintaining stability of the vacuum, avoiding contamination, and measuring extremely rare interactions."
+    }
+]
