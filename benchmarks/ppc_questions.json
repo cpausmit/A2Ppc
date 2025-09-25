@@ -1,0 +1,167 @@
+[
+    {
+        "question": "Who authored the report about the highest pileup at CMS and when was it written?",
+        "answer": "The report was authored by Christoph Paus on June 20, 2025.",
+        "link": "https://ppc.mit.edu/blog/2025/06/20/highest-pileup-recorded-at-cms-last-night/"
+    },
+    {
+        "question": "What was the record pileup value recorded at CMS and how does it compare to usual Run 3 conditions?",
+        "answer": "CMS recorded an average of 135 pileup collisions per crossing, about twice the usual amount seen during Run 3.",
+        "link": "https://ppc.mit.edu/blog/2025/06/20/highest-pileup-recorded-at-cms-last-night/"
+    },
+    {
+        "question": "What issues did the highest pileup record cause for the CMS data acquisition system?",
+        "answer": "The high pileup led to extended processing times required by the High Level Trigger (HLT), preventing runs from being closed with events still outstanding and causing delays of up to an hour for certain events.",
+        "link": "https://ppc.mit.edu/blog/2025/06/20/highest-pileup-recorded-at-cms-last-night/"
+    },
+    {
+        "question": "Why are muons important for studies at the Large Hadron Collider (LHC)?",
+        "answer": "Muons interact very little with ordinary matter, allowing them to pass through large amounts of material and leave distinct detector signatures. This makes them clear indicators of unique and interesting processes at the LHC.",
+        "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+    },
+    {
+        "question": "How was the CMS detector optimized for muons?",
+        "answer": "The Compact Muon Solenoid (CMS) detector was designed with strong muon detection capabilities, including acceptance for low-momentum muons of just a few GeV, while still being able to measure muons at the TeV scale.",
+        "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+    },
+    {
+        "question": "What improvement in muon trigger efficiency did CMS achieve for Run 3 as compared to Run 2?",
+        "answer": "Under DK’s leadership, CMS improved low-momentum muon trigger efficiency by up to 50% compared to Run 2 of the LHC.",
+        "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+    },
+    {
+        "question": "What was the outcome of the new muon identification algorithm developed by DK, Zhanqier Wang, and collaborators?",
+        "answer": "The new algorithm significantly improved the ability to distinguish muons from heavy quark decays versus those from pion and kaon decays. The results were accepted for publication in the Journal of Instrumentation (https://arxiv.org/abs/2412.17590).",
+        "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+    },
+    {
+        "question": "What new trigger was introduced in 2024 to expand the CMS physics program?",
+        "answer": "In collaboration with UCLA, DK introduced a new high-purity single muon trigger, which further enhances the CMS muon physics program.",
+        "link": "https://ppc.mit.edu/blog/2025/04/14/maximizing-cms-competitive-advantage/"
+    },
+    {
+        "question": "What fundamental question does the Particle Physics Collaboration (PPC) aim to answer?",
+        "link": "https://ppc.mit.edu/history/",
+        "answer": "The PPC searches for the answer to the ultimate question: what is matter and how does it interact?"
+    },
+    {
+        "question": "Which major experiment is the PPC currently focused on analyzing data from?",
+        "link": "https://ppc.mit.edu/history/",
+        "answer": "The PPC is mainly analyzing proton-proton collision datasets collected by the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC) in CERN, Geneva, Switzerland."
+    },
+    {
+        "question": "Which discovery under PPC leadership during Run 1 at the LHC led to the 2013 Nobel Prize in Physics?",
+        "link": "https://ppc.mit.edu/history/",
+        "answer": "The discovery of the Higgs boson with the CMS detector in 2012, simultaneously with the ATLAS experiment."
+    },
+    {
+        "question": "What was a highlight of the PPC's contributions at Fermilab's CDF experiment?",
+        "link": "https://ppc.mit.edu/history/",
+        "answer": "The PPC played leadership roles in the discovery of the top quark and later led the observation of Bs meson oscillations."
+    },
+    {
+        "question": "What future projects is the PPC involved in beyond the LHC?",
+        "link": "https://ppc.mit.edu/history/",
+        "answer": "The PPC will continue with the CMS experiment in the High Luminosity LHC (HL-LHC) project and is involved in the feasibility study for a Future Circular Collider (FCC), expected to conclude in 2025."
+    },
+    {
+        "question": "Where was the 2025 APS April Meeting held?",
+        "answer": "The 2025 APS April Meeting was held in Anaheim, California, in conjunction with the APS March Meeting.",
+        "link": "https://ppc.mit.edu/blog/2025/04/25/sueps-at-aps-march-april-meeting/"
+    },
+    {
+        "question": "What work did undergraduate Nate Martinez present at the 2025 APS meeting?",
+        "answer": "Nate Martinez presented his work studying and characterizing beam backgrounds for future tracking detectors proposed for the FCC.",
+        "link": "https://ppc.mit.edu/blog/2025/04/25/sueps-at-aps-march-april-meeting/"
+    },
+    {
+        "question": "What contribution did MIT present at the 2025 APS meeting regarding SUEPs?",
+        "answer": "Graduate student Pietro Lugato presented MIT’s work on new associated production (V+SUEP) channels in the search for Soft Unclustered Energy Patterns (SUEPs).",
+        "link": "https://ppc.mit.edu/blog/2025/04/25/sueps-at-aps-march-april-meeting/"
+    },
+    {
+        "question": "What research did Ludovico present at 2025 APS Meeting?",
+        "answer": "Ludovico presented his work on the search for dark photons, which he originally started with the PPC.",
+        "link": "https://ppc.mit.edu/blog/2025/04/25/sueps-at-aps-march-april-meeting/"
+    },
+    {
+        "question": "What was the overall outcome of the PPC presence at the combined 2025 APS March and April meeting?",
+        "answer": "The PPC talks were very successful, with many presentations and conversations covering topics from dark sectors to precision physics, highlighting exciting progress and future opportunities.",
+        "link": "https://ppc.mit.edu/blog/2025/04/25/sueps-at-aps-march-april-meeting/"
+    },
+    {
+	"question": "Who authored the article on 'ultra-rarified Higgs' and when was it published?",
+	"link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+	"answer": "By Mariarosaria D'Alfonso, February 18, 2025."
+    },
+    {
+	"question": "Which ultra-rare Higgs boson decays did the PPC group investigate?",
+	"link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+	"answer": "Higgs decays into a light meson (such as ρ, ϕ, or K*⁰) and a photon (γ)."
+    },
+    {
+	"question": "How do the targeted ultra-rarified Higgs events appear in the mass spectrum?",
+	"link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+	"answer": "As a distinct narrow peak in the three-particle mass spectrum, thanks to the CMS detector’s precision in measuring tracks and photons."
+    },
+    {
+	"question": "What was the outcome of the Run 2 analysis of ultra-rarified Higgs decays and where was it published?",
+	"link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+	"answer": "No significant excess was observed; the study set world-leading constraints on these Higgs decays and their couplings to up, down, and strange quarks. The results were published at https://doi.org/10.1016/j.physletb.2025.139296."
+    },
+    {
+	"question": "What prospects and goals are outlined for 'ultra-rarified Higgs' during Run 3 and beyond?",
+	"link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+	"answer": "The goal is to precisely measure these elusive Standard Model decays and search for new physics; Run 3 features improved triggers to enhance sensitivity, exploration of new final states, and refined statistical techniques to detect subtle deviations."
+    },
+    {
+        "question": "What is meant by 'ultrararified' in the context of the text?",
+        "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+        "answer": "It refers to conditions or substances that exist at extremely low density, often close to a vacuum state."
+    },
+    {
+        "question": "What examples are given of ultrararified environments?",
+        "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+        "answer": "Outer space and certain laboratory-created vacuums are mentioned as examples of ultrararified environments."
+    },
+    {
+        "question": "Why are ultrararified conditions significant for scientific research?",
+        "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+        "answer": "They allow the study of fundamental physical processes without interference from dense matter or atmospheric particles."
+    },
+    {
+        "question": "How are ultrararified states achieved in laboratories?",
+        "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+        "answer": "They are typically created using advanced vacuum systems and techniques that remove nearly all particles from a chamber."
+    },
+    {
+        "question": "What challenges are associated with studying ultrararified conditions?",
+        "link": "https://ppc.mit.edu/blog/2025/02/18/exploring-the-higgs-boson-in-our-latest-result/",
+        "answer": "Challenges include maintaining stability of the vacuum, avoiding contamination, and measuring extremely rare interactions."
+    },
+    {
+        "question": "When and where did the Open Symposium on the European Strategy for Particle Physics take place?",
+        "answer": "The symposium concluded on June 27, 2025, in Venice.",
+        "link": "https://ppc.mit.edu/blog/2025/06/27/open-symposium-on-the-european-strategy-for-particle-physics/"
+    },
+    {
+        "question": "What was the central focus of the Venice symposium discussions regarding Europe’s next flagship collider?",
+        "answer": "The main focus was selecting Europe’s next flagship collider after the High-Luminosity LHC, with the favored option being the integrated Future Circular Collider (FCC), staged as FCC-ee followed by FCC-pp.",
+        "link": "https://ppc.mit.edu/blog/2025/06/27/open-symposium-on-the-european-strategy-for-particle-physics/"
+    },
+    {
+        "question": "What non-collider research priorities were highlighted at the Venice symposium?",
+        "answer": "Participants emphasized the importance of neutrino facilities, dark-sector and rare-process experiments, and computational efforts, alongside a commitment to environmental sustainability in all projects.",
+        "link": "https://ppc.mit.edu/blog/2025/06/27/open-symposium-on-the-european-strategy-for-particle-physics/"
+    },
+    {
+        "question": "What concerns and issues did early career researchers raise in their white paper for the Venice symposium?",
+        "answer": "They highlighted issues such as career paths, funding, equity, and training, urging the community to adopt policies that support and retain new talent.",
+        "link": "https://ppc.mit.edu/blog/2025/06/27/open-symposium-on-the-european-strategy-for-particle-physics/"
+    },
+    {
+        "question": "What are the next steps following the Venice Symposium?",
+        "answer": "The European Strategy Group will draft a strategy over summer and autumn 2025, to be debated in Ascona, Switzerland (Dec 1–5, 2025), and a finalized strategy will be submitted to the CERN Council by June 2026.",
+        "link": "https://ppc.mit.edu/blog/2025/06/27/open-symposium-on-the-european-strategy-for-particle-physics/"
+    }
+]
